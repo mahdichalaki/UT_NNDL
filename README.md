@@ -80,8 +80,8 @@ To explore the materials:
 ---
 
 🔧 Technologies Used
-Programming Languages: Python, MATLAB
-Libraries: TensorFlow, Keras, PyTorch, NumPy, SciPy, OpenCV
-Frameworks: Scikit-learn, Matplotlib
+- Programming Languages: Python, MATLAB
+- Libraries: TensorFlow, Keras, PyTorch, NumPy, SciPy, OpenCV
+- Frameworks: Scikit-learn, Matplotlib
 
 
